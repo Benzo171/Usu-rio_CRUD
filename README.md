@@ -1,3 +1,17 @@
+Todos os integrantes do grupo trabalharam de forma igualitária na hora de fazer o código, ajudando nas pesquisas e na formatação dos arquivos presentes, sem precisar atribuir tarefas individuais.
+
+Alunos:
+
+-Enzo Antônio Soares Silva
+
+-Lucas Gabriel Da Silva Santana 
+
+-Lucas Silva De Souza
+
+-Tiago Filipe Azevedo Da Silva
+
+-Kauã Oliveira Matos  Borba
+
 # 🧑‍💻 Sistema de Cadastro de Usuários com Tkinter, SQLite e Bcrypt
 
 Este projeto é uma aplicação simples com interface gráfica desenvolvida em Python usando `Tkinter` para interface, `SQLite` como banco de dados e `bcrypt` para segurança de senhas.
@@ -40,19 +54,7 @@ A interface possui:
 
 ### 1. Clone o repositório
 
-Todos os integrantes do grupo trabalharam de forma igualitária na hora de fazer o código, ajudando nas pesquisas e na formatação dos arquivos presentes, sem precisar atribuir tarefas individuais.
 
-Alunos:
-
--Enzo Antônio Soares Silva
-
--Lucas Gabriel Da Silva Santana 
-
--Lucas Silva De Souza
-
--Tiago Filipe Azevedo Da Silva
-
--Kauã Oliveira Matos  Borba
 
 ```bash
 git clone https://github.com/seuusuario/seurepositorio.git
